@@ -26,12 +26,19 @@ Sectigin programlama dili ile bilgini tazele. Bu bazen sirketlerin verdigi homew
   - C/C++ ta null terminated stringleri nasil ele alirsin
   - Process command line arguments
   - Parse CSV or text files
+ 
  :heavy_check_mark: 3 adet Leetcode yada Hackerrank sorusu ( easy yada medium zorlukta )
+ 
  :heavy_check_mark: Ilk olarak meditation/nefes alma her sabah yaklasik 5 yada 10 dakika (baslangiclar icin https://www.youtube.com/watch?v=acUZdGd_3Dg)
+ 
  :heavy_check_mark: Workout- Hergun 20 dakika Cardio yada min 10000 adim
+ 
  :heavy_check_mark: Workout- Hergun 60 squats
+ 
  :heavy_check_mark: Workout- Hergun 1dk plank
+ 
  :heavy_check_mark: Workout- Hergun 30 pushups(Kadin muhendis arkadaslar yarim pushups yapabilir)
+ 
  :heavy_check_mark: Min 4 gun vegeterian ya da vegan, kirmizi et max 1 kere, alkol tuketimi haftada 1 kere
 
 ### Week 2 & 3 - Data Structure ve algorithm
@@ -89,11 +96,18 @@ Sectigin programlama dili ile bilgini tazele. Bu bazen sirketlerin verdigi homew
     - Subset of string
     - Find symmetric values
     - Trees vs Hash
+ 
  :heavy_check_mark: 3 adet Leetcode yada Hackerrank sorusu ( easy yada medium zorlukta )
+ 
  :heavy_check_mark: Ilk olarak meditation/nefes alma her sabah yaklasik 5 yada 10 dakika (baslangiclar icin https://www.youtube.com/watch?v=acUZdGd_3Dg)
+ 
  :heavy_check_mark: Workout- Hergun 20 dakika Cardio yada min 10000 adim
+ 
  :heavy_check_mark: Workout- Hergun 60 squats
+ 
  :heavy_check_mark: Workout- Hergun 1dk plank
+ 
  :heavy_check_mark: Workout- Hergun 30 pushups(Kadin muhendis arkadaslar yarim pushups yapabilir)
+ 
  :heavy_check_mark: Min 4 gun vegeterian ya da vegan, kirmizi et max 1 kere, alkol tuketimi haftada 1 kere
 
