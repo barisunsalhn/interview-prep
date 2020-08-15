@@ -103,11 +103,11 @@ Sectigin programlama dili ile bilgini tazele. Bu bazen sirketlerin verdigi homew
  
  :heavy_check_mark: Workout- Hergun 20 dakika Cardio yada min 10000 adim
  
- :heavy_check_mark: Workout- Hergun 60 squats
+ :heavy_check_mark: Workout- Hergun 70 squats, 3. hafta 80 squats
  
- :heavy_check_mark: Workout- Hergun 1dk plank
+ :heavy_check_mark: Workout- Hergun 1.5 dk plank, 3. hafta 2 dk plank
  
- :heavy_check_mark: Workout- Hergun 30 pushups(Kadin muhendis arkadaslar yarim pushups yapabilir)
+ :heavy_check_mark: Workout- Workout- Hergun 35 pushups(Kadin muhendis arkadaslar yarim pushups yapabilir), 3.hafta 40 pushups. 
  
  :heavy_check_mark: Min 4 gun vegeterian ya da vegan, kirmizi et max 1 kere, alkol tuketimi haftada 1 kere
 
