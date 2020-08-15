@@ -4,6 +4,8 @@ Programlama dili sec ( JS, Python, Java, C++ ) ( Hangi programlama diline sahips
 
 :heavy_check_mark: 3 adet Leetcode yada Hackerrank sorusu ( easy yada medium zorlukta )
 
+:heavy_check_mark: Hergun bir system design videosu izleyin ve mutlaka ama mutlaka notlarinizi alin[System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ), [Gaurav Sen](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ), [Success in Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw), [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ),[Tech Dummies](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ),[Grokking system design interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+
 :heavy_check_mark: Ilk olarak meditation/nefes alma her sabah yaklasik 5 yada 10 dakika (baslangiclar icin https://www.youtube.com/watch?v=acUZdGd_3Dg)
 
 :heavy_check_mark: Workout- Hergun 20 dakika Cardio yada min 10000 adim
@@ -28,6 +30,8 @@ Sectigin programlama dili ile bilgini tazele. Bu bazen sirketlerin verdigi homew
   - Parse CSV or text files
  
  :heavy_check_mark: 3 adet Leetcode yada Hackerrank sorusu ( easy yada medium zorlukta )
+ 
+ :heavy_check_mark: Hergun bir system design videosu izleyin ve mutlaka ama mutlaka notlarinizi alin[System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ), [Gaurav Sen](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ), [Success in Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw), [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ),[Tech Dummies](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ),[Grokking system design interview](https://www.educative.io/courses/grokking-the-system-design-interview)
  
  :heavy_check_mark: Ilk olarak meditation/nefes alma her sabah yaklasik 5 yada 10 dakika (baslangiclar icin https://www.youtube.com/watch?v=acUZdGd_3Dg)
  
@@ -99,6 +103,8 @@ Sectigin programlama dili ile bilgini tazele. Bu bazen sirketlerin verdigi homew
  
  :heavy_check_mark: 3 adet Leetcode yada Hackerrank sorusu ( easy yada medium zorlukta )
  
+ :heavy_check_mark: Hergun bir system design videosu izleyin ve mutlaka ama mutlaka notlarinizi alin[System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ), [Gaurav Sen](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ), [Success in Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw), [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ),[Tech Dummies](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ),[Grokking system design interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+ 
  :heavy_check_mark: Ilk olarak meditation/nefes alma her sabah yaklasik 5 yada 10 dakika (baslangiclar icin https://www.youtube.com/watch?v=acUZdGd_3Dg)
  
  :heavy_check_mark: Workout- Hergun 20 dakika Cardio yada min 10000 adim
@@ -111,3 +117,5 @@ Sectigin programlama dili ile bilgini tazele. Bu bazen sirketlerin verdigi homew
  
  :heavy_check_mark: Min 4 gun vegeterian ya da vegan, kirmizi et max 1 kere, alkol tuketimi haftada 1 kere
 
+### Week 4 & 5 - Data Structure ve algorithm challenges
+COMING SOON
